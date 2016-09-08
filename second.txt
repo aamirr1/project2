@@ -1,0 +1,15 @@
+First line 
+
+Programming is fun 
+
+I am creating second repository 
+
+I will use "Git init <repo name> to create repository 
+
+I will use vim <file name> to create file in repository 
+
+I will use git status to check the status 
+
+I will use git add <file name> to create branch 
+
+I will use git commit -m "comments"
